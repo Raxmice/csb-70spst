@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://raxmice.github.io/csb-70spst/static/css/main.3fd6b823.chunk.css",
+    "main.js": "https://raxmice.github.io/csb-70spst/static/js/main.227c4438.chunk.js",
+    "main.js.map": "https://raxmice.github.io/csb-70spst/static/js/main.227c4438.chunk.js.map",
+    "runtime-main.js": "https://raxmice.github.io/csb-70spst/static/js/runtime-main.2c1b4005.js",
+    "runtime-main.js.map": "https://raxmice.github.io/csb-70spst/static/js/runtime-main.2c1b4005.js.map",
+    "static/js/2.1c64c244.chunk.js": "https://raxmice.github.io/csb-70spst/static/js/2.1c64c244.chunk.js",
+    "static/js/2.1c64c244.chunk.js.map": "https://raxmice.github.io/csb-70spst/static/js/2.1c64c244.chunk.js.map",
+    "index.html": "https://raxmice.github.io/csb-70spst/index.html",
+    "static/css/main.3fd6b823.chunk.css.map": "https://raxmice.github.io/csb-70spst/static/css/main.3fd6b823.chunk.css.map",
+    "static/js/2.1c64c244.chunk.js.LICENSE.txt": "https://raxmice.github.io/csb-70spst/static/js/2.1c64c244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c1b4005.js",
+    "static/js/2.1c64c244.chunk.js",
+    "static/css/main.3fd6b823.chunk.css",
+    "static/js/main.227c4438.chunk.js"
+  ]
+}
